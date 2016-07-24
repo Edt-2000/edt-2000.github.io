@@ -25,9 +25,13 @@ description: Arduino & GameTrak based expressive midi controller
 navbar-links:
   About: "about"
   Components:
-    - Edt-Trak: "http://deanattali.com/beautiful-jekyll/"
-    - Edt-MOSCidi: "http://www.markdowntutorial.com/"
-    - Edt-Pedal: "https://pages.github.com/"
+    - The Playground: "https://github.com/Edt-2000/Playground"
+    - Edt-Trak: "https://github.com/Edt-2000/Edt-Trak"
+    - Edt-Cetera: "https://github.com/Edt-2000/Edt-Cetera"
+    - Edt-Lib: "https://github.com/Edt-2000/Edt-Lib"
+    - Edt-MOSCidi: "https://github.com/Edt-2000/Edt-MOSCIDI"
+  Tutorials:
+    - Coming soon!: "https://github.com/Edt-2000"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -55,7 +59,7 @@ footer-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "Edt-20000.github.io"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "Edt-2000.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 
