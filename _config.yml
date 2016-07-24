@@ -24,6 +24,7 @@ description: Arduino & GameTrak based expressive midi controller
 # List of links in the navigation bar
 navbar-links:
   About: "about"
+  Pivotal Tracker: "https://www.pivotaltracker.com/n/projects/1613837"
   Components:
     - The Playground: "https://github.com/Edt-2000/Playground"
     - Edt-Trak: "https://github.com/Edt-2000/Edt-Trak"
