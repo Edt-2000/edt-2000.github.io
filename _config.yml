@@ -47,7 +47,7 @@ author:
   email: "edt-2000@edwinmeijne.nl"
   facebook: Strobocops  # eg. daattali
   github: Edt-2000    # eg. daattali
- 
+
 # Select which links to show in the footer
 footer-links-active:
   rss: false
@@ -68,7 +68,7 @@ url-pretty: "Edt-2000.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 disqus: "edt-2000"
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
+google_analytics: "UA-81272255-1"
 
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
