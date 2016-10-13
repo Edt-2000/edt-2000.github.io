@@ -34,6 +34,7 @@ will output will be something like this (the first number is the time between th
 current and previous message, in microseconds):
 
 ### Ping
+
 ```
 72: 2: Start cycle.
 80: 2: Writing start signal.
@@ -43,6 +44,7 @@ current and previous message, in microseconds):
 1000036: 2: Reset.
 ```
 ### Pong
+
 ```
 36: 2: Start cycle.
 500392: 2: Received start.
