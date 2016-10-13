@@ -1,5 +1,3 @@
-# Low latency OSC messages exchange over UDP
-
 In my previous blog post about OSC messages, I primarily focused on getting the
 number of messages per second up without looking at, perhaps more important, things
 like delay or reliability. In this blog post, I will dive a bit more into getting
@@ -108,7 +106,7 @@ Pong
 
 So that's all for this time. Next time I'll probably write more about the new library,
 and post some details about some of the choices I've made. Or I'll post about the
-Sparkfun Things, which I finally got working. 
+Sparkfun Things, which I finally got working.
 
 
 
